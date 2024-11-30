@@ -67,7 +67,3 @@ Feel free to navigate through the various subdirectories to review the code for 
 This repository contains the work completed for the second tutorial assignment of SEG2505. The exercises helped deepen understanding of Android development with Kotlin and Jetpack Compose, focusing on UI components, state management, and user interaction.
 
 Please feel free to reach out if you have any questions or need further clarification on any of the assignments.
-
----
-
-**Note**: The repository is set up to be accessible to teaching assistants for review.
